@@ -9,6 +9,8 @@
       echo "Nama : Dewi fitriyani";
       echo "Kelas : 22Mi-A";
       echo "Alamat : JL. Soebrantas";
+      echo "Semester : 2";
+
     ?>
   </body>
 </html>
